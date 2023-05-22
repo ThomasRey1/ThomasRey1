@@ -9,6 +9,7 @@
 <div>
   <img align="right" width="50%" src="https://github-readme-stats.vercel.app/api/top-langs?username=ThomasRey1&layout=compact&theme=nord">
   <div>
+        </dd></dl></dd></dl></dd></dl>
         <h2> What i know </h2>
         <img height="40" src="assets/Csharp.png" />
         <img height="40" src="assets/Java.png" />
@@ -30,6 +31,7 @@
         <img height="40" src="assets/Three.png" />
         <img height="40" src="assets/Vue.png" />
         <img height="40" src="assets/Next.png" />
+        </dd></dl></dd></dl></dd></dl>
     </div>
 </div>
 
