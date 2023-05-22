@@ -20,23 +20,16 @@
         <img height="40" src="assets/Powershell.png" />
         <img height="40" src="assets/Sql.png" />
         <img height="40" src="assets/Sqlite.png" />
-        <h2> What I want to learn </h2>
-        <img height="40" src="assets/Cpp.png" />
-        <img height="40" src="assets/Dart.png" />
-        <img height="40" src="assets/Rust.png" />
-        <img height="40" src="assets/Go.png" />
-        <img height="40" src="assets/Python.png" />
-        <img height="40" src="assets/Sfml.png" />
-        <img height="40" src="assets/Lwjgl.png" />
-        <img height="40" src="assets/OpenGl.png" />
         <img height="40" src="assets/Laravel.png" />
         <img height="40" src="assets/React.png" />
+        <h2> What I want to learn </h2>
+        <img height="40" src="assets/Cpp.png" />
+        <img height="40" src="assets/Python.png" />
+        <img height="40" src="assets/OpenGl.png" />
         <img height="40" src="assets/Angular.png" />
-        <img height="40" src="assets/Meteor.png" />
         <img height="40" src="assets/Three.png" />
         <img height="40" src="assets/Vue.png" />
         <img height="40" src="assets/Next.png" />
-        <img height="40" src="assets/Electron.png" />
     </div>
 </div>
 
