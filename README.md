@@ -10,20 +10,18 @@
   <img align="right" width="50%" src="https://github-readme-stats.vercel.app/api/top-langs?username=ThomasRey1&layout=compact&theme=nord">
   <div>
         <h2> What i know </h2>
-        <img height="40" src="assets/Cpp.png" />
         <img height="40" src="assets/Csharp.png" />
         <img height="40" src="assets/Java.png" />
-        <img height="40" src="assets/Swift.png" />
         <img height="40" src="assets/Html.png" />
         <img height="40" src="assets/Css.png" />
         <img height="40" src="assets/Javascript.png" />
         <img height="40" src="assets/Typescript.png" />
         <img height="40" src="assets/Php.png" />
-        <img height="40" src="assets/Blade.png" />
         <img height="40" src="assets/Powershell.png" />
         <img height="40" src="assets/Sql.png" />
         <img height="40" src="assets/Sqlite.png" />
         <h2> What I want to learn </h2>
+        <img height="40" src="assets/Cpp.png" />
         <img height="40" src="assets/Dart.png" />
         <img height="40" src="assets/Rust.png" />
         <img height="40" src="assets/Go.png" />
