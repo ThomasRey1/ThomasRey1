@@ -1,4 +1,10 @@
-### Hi there 👋
+<div align="center">
+  <h1>Hi there</h1>
+  <p>
+    My Name is Thomas, I'm 19 years old and I'm in my 3rd year of computer scientist.
+    
+  </p>
+</div>
 
 <!--
 **ThomasRey1/ThomasRey1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
