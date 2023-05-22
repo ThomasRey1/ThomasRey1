@@ -1,5 +1,5 @@
 <div align="center">
-  <h1><a href="https://readme-typing-svg.demolab.com/?lines=>+WELCOME+<;>+ENJOY+EXPLORING+MY+PROJECTS+<;>+HEYY+!+<&font=Fira%20Code&center=true&width=380&height=50&duration=4000&pause=1000&color=40e0d0" alt="Example Usage - README Typing SVG"></h1>
+  <h1><img src="https://readme-typing-svg.demolab.com/?lines=>+WELCOME+<;>+ENJOY+EXPLORING+MY+PROJECTS+<;>+HEYY+!+<&font=Fira%20Code&center=true&width=380&height=50&duration=4000&pause=1000&color=40e0d0" alt="Example Usage - README Typing SVG"></h1>
   <p>
     My Name is Thomas, I'm 19 years old and I'm in my 3rd year of computer scientist.<br>
     Programming is one of my favorite hobbies, especially web development.
