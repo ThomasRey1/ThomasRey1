@@ -3,10 +3,14 @@ let langData;
 function ChangeLanguage(lang){
     const data = langData[lang];
     Object.keys(data).forEach(function (key){
-        let element = document.getElementById(key);
-        if (element) {
-            element.textContent = data[key];
-        }
+        let elements = document.querySelectorAll(`#${key}, .${key}`);
+        elements.forEach(function (element) {
+          element.textContent = data[key]
+        })
+        // let element = document.getElementById(key);
+        // if (element) {
+        //     element.textContent = data[key];
+        // }
     });
 }
 

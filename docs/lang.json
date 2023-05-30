@@ -5,7 +5,7 @@
         "navSkill": "Skills",
 
         "presentMyself": "I'm Thomas Rey, software/Web developer",
-        "presentWelcome": "Weclome to my Protfolio",
+        "presentWelcome": "Welcome to my Portfolio",
         "presentSkill": "My programming skills",
         
         "mySkill": "My skills",
@@ -29,8 +29,9 @@
         "descrSlideFourOne": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce sollicitudin. English",
         "descrSlideFourTwo": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce sollicitudin. English",
         "descrSlideFourThree": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce sollicitudin. English",
+        "findOutMore": "Find out more",
 
-        "contact": "5th section",
+        "contactTitle": "5th section",
         "contactDescr": "find something to say, but for now, it's just a contact form",
         "contactName": "Name",
         "contactEmail": "Email address",
@@ -70,6 +71,7 @@
         "descrSlideFourOne": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce sollicitudin. Français",
         "descrSlideFourTwo": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce sollicitudin. Français",
         "descrSlideFourThree": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce sollicitudin. Français",
+        "findOutMore": "En savoir plus",
 
         "contactTitle": "5ème section",
         "contactDescr": "besoin de trouvez comment remplire cette section, mais pour l'instant c'est un formulaire de contact",
