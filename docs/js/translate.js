@@ -1,3 +1,5 @@
+let langData;
+
 function ChangeLanguage(lang){
     const data = langData[lang];
     Object.keys(data).forEach(function (key){
@@ -9,7 +11,7 @@ function ChangeLanguage(lang){
 }
 
 fetch("lang.json").then(response => response.json()).then(data => {
-    const langData = data;
+    langData = data;
 
     ChangeLanguage("en")
 }).catch(error => {
