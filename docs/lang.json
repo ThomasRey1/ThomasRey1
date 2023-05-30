@@ -1,0 +1,84 @@
+{
+    "en": {
+        "language": "Language",
+        "navPresentMyself": "Who I am ?",
+        "navSkill": "Skills",
+
+        "presentMyself": "I'm Thomas Rey, software/Web developer",
+        "presentWelcome": "Weclome to my Protfolio",
+        "presentSkill": "My programming skills",
+        
+        "mySkill": "My skills",
+        "skillLanguage": "Web and software language",
+
+        "myPortfolio": "My Portfolio",
+        "portfolioProject": "Personal projects",
+        "descriptionOne": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce sollicitudin. English",
+        "descrSlideOneOne": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce sollicitudin. English",
+        "descrSlideOneTwo": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce sollicitudin. English",
+        "descrSlideOneThree": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce sollicitudin. English",
+        "descriptionTwo": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce sollicitudin. English",
+        "descrSlideTwoOne": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce sollicitudin. English",
+        "descrSlideTwoTwo": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce sollicitudin. English",
+        "descrSlideTwoThree": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce sollicitudin. English",
+        "descriptionThree": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce sollicitudin. English",
+        "descrSlideThreeOne": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce sollicitudin. English",
+        "descrSlideThreeTwo": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce sollicitudin. English",
+        "descrSlideThreeThree": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce sollicitudin. English",
+        "descriptionFour": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce sollicitudin. English",
+        "descrSlideFourOne": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce sollicitudin. English",
+        "descrSlideFourTwo": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce sollicitudin. English",
+        "descrSlideFourThree": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce sollicitudin. English",
+
+        "contact": "5th section",
+        "contactDescr": "find something to say, but for now, it's just a contact form",
+        "contactName": "Name",
+        "contactEmail": "Email address",
+        "contactSubmit": "Submit",
+
+        "legalNoticeTitle": "Legal Notice",
+        "legalNoticeTextOne": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.\nNullam tellus leo, volutpat vitae mi ultrices, sollicitudin blandit dui.\nMauris ultricies iaculis leo id consequat.\nClass aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos.\nSed posuere risus viverra ornare porttitor.\nNullam egestas nec libero eget sagittis.\nPhasellus vulputate ante a vulputate vehicula.\nSuspendisse nec dolor ante.\nEnglish",
+        "legalNoticeTextTwo": "Nunc auctor semper turpis.\nDuis quam velit, aliquam ut mi vel, sollicitudin dapibus erat.\nEtiam vitae malesuada urna.\nVestibulum scelerisque lacus at molestie cursus.\nDonec placerat enim id enim feugiat gravida.\nInteger ut maximus libero.\nNulla faucibus dolor vitae varius rutrum.\nNunc neque sem, convallis id lorem quis, vulputate imperdiet eros.\nDonec viverra commodo congue.\nEnglish"
+    },
+    "fr": {
+        "language": "Langue",
+        "navPresentMyself": "Qui suis-je ?",
+        "navSkill": "Compétences",
+
+        "presentMyself": "Je suis Thomas Rey, développeur Web et d'application",
+        "presentWelcome": "Bienvenu dans mon Portfolio",
+        "presentSkill": "Mes compétences en programmation",
+
+        "mySkill": "Mes compétences",
+        "skillLanguage": "Language Web et d'application",
+
+        "myPortfolio": "Mon Portfolio",
+        "portfolioProject": "Mes projets personnel",
+        "descriptionOne": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce sollicitudin. Français",
+        "descrSlideOneOne": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce sollicitudin. Français",
+        "descrSlideOneTwo": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce sollicitudin. Français",
+        "descrSlideOneThree": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce sollicitudin. Français",
+        "descriptionTwo": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce sollicitudin. Français",
+        "descrSlideTwoOne": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce sollicitudin. Français",
+        "descrSlideTwoTwo": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce sollicitudin. Français",
+        "descrSlideTwoThree": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce sollicitudin. Français",
+        "descriptionThree": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce sollicitudin. Français",
+        "descrSlideThreeOne": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce sollicitudin. Français",
+        "descrSlideThreeTwo": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce sollicitudin. Français",
+        "descrSlideThreeThree": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce sollicitudin. Français",
+        "descriptionFour": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce sollicitudin. Français",
+        "descrSlideFourOne": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce sollicitudin. Français",
+        "descrSlideFourTwo": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce sollicitudin. Français",
+        "descrSlideFourThree": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce sollicitudin. Français",
+
+        "contactTitle": "5ème section",
+        "contactDescr": "besoin de trouvez comment remplire cette section, mais pour l'instant c'est un formulaire de contact",
+        "contactName": "Nom",
+        "contactEmail": "Adresse e-mail",
+        "contactSubmit": "Envoyer",
+
+        "legalNoticeTitle": "Mention Légale",
+        "legalNoticeTextOne": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.\nNullam tellus leo, volutpat vitae mi ultrices, sollicitudin blandit dui.\nMauris ultricies iaculis leo id consequat.\nClass aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos.\nSed posuere risus viverra ornare porttitor.\nNullam egestas nec libero eget sagittis.\nPhasellus vulputate ante a vulputate vehicula.\nSuspendisse nec dolor ante.\nFrançais",
+        "legalNoticeTextTwo": "Nunc auctor semper turpis.\nDuis quam velit, aliquam ut mi vel, sollicitudin dapibus erat.\nEtiam vitae malesuada urna.\nVestibulum scelerisque lacus at molestie cursus.\nDonec placerat enim id enim feugiat gravida.\nInteger ut maximus libero.\nNulla faucibus dolor vitae varius rutrum.\nNunc neque sem, convallis id lorem quis, vulputate imperdiet eros.\nDonec viverra commodo congue.\nFrançais"
+    }
+}
