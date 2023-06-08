@@ -1,6 +1,6 @@
 {
     "en": {
-        "language": "Language",
+        "language": "English",
         "navPresentMyself": "Who I am ?",
         "navSkill": "Skills",
 
@@ -42,7 +42,7 @@
         "legalNoticeTextTwo": "Nunc auctor semper turpis.\nDuis quam velit, aliquam ut mi vel, sollicitudin dapibus erat.\nEtiam vitae malesuada urna.\nVestibulum scelerisque lacus at molestie cursus.\nDonec placerat enim id enim feugiat gravida.\nInteger ut maximus libero.\nNulla faucibus dolor vitae varius rutrum.\nNunc neque sem, convallis id lorem quis, vulputate imperdiet eros.\nDonec viverra commodo congue.\nEnglish"
     },
     "fr": {
-        "language": "Langue",
+        "language": "Français",
         "navPresentMyself": "Qui suis-je ?",
         "navSkill": "Compétences",
 

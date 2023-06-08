@@ -61,3 +61,22 @@
 #dark-mode-checkbox:checked + #toggle-darkmode svg.moon{
     fill: #FFF;
 }
+
+svg.tailwind{
+    fill: #5B96C2;
+    opacity: 100%;
+}
+
+.bg-lightBlue{
+    background-color: #5B96C2;
+    color: black;
+}
+
+.text-lightBlue{
+    color: #5B96C2;
+}
+
+.placeholder{
+    opacity: 1;
+    cursor: auto;
+}
