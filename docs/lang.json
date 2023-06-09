@@ -42,7 +42,7 @@
         "legalNoticeTextTwo": "Nunc auctor semper turpis.\nDuis quam velit, aliquam ut mi vel, sollicitudin dapibus erat.\nEtiam vitae malesuada urna.\nVestibulum scelerisque lacus at molestie cursus.\nDonec placerat enim id enim feugiat gravida.\nInteger ut maximus libero.\nNulla faucibus dolor vitae varius rutrum.\nNunc neque sem, convallis id lorem quis, vulputate imperdiet eros.\nDonec viverra commodo congue.\nEnglish",
 
         "experienceTitleOne": "Computer Science degree",
-        "experienceDateOne": " Aug 2020 - Ongoing",
+        "experienceDateOne": "<i class='far fa-clock' aria-hidden='true'></i> Aug 2020 - Ongoing",
         "experienceDescrOne": "Developing and maintaining web applications using numerous technologies.\nDeveloping C# .Net desktop software using Forms and Xamarin.\nSetting up and managing databases using mySql."
     },
     "fr": {
@@ -88,7 +88,7 @@
         "legalNoticeTextTwo": "Nunc auctor semper turpis.\nDuis quam velit, aliquam ut mi vel, sollicitudin dapibus erat.\nEtiam vitae malesuada urna.\nVestibulum scelerisque lacus at molestie cursus.\nDonec placerat enim id enim feugiat gravida.\nInteger ut maximus libero.\nNulla faucibus dolor vitae varius rutrum.\nNunc neque sem, convallis id lorem quis, vulputate imperdiet eros.\nDonec viverra commodo congue.\nFrançais",
 
         "experienceTitleOne": "CFC d'informatition",
-        "experienceDateOne": " août 2020 - en cours",
+        "experienceDateOne": "<i class='far fa-clock' aria-hidden='true'></i> août 2020 - en cours",
         "experienceDescrOne": "Developing and maintaining web applications using numerous technologies.\nDeveloping C# .Net desktop software using Forms and Xamarin.\nSetting up and managing databases using mySql."
     }
 }
