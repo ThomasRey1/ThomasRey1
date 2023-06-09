@@ -41,10 +41,15 @@
         "legalNoticeTextOne": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.\nNullam tellus leo, volutpat vitae mi ultrices, sollicitudin blandit dui.\nMauris ultricies iaculis leo id consequat.\nClass aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos.\nSed posuere risus viverra ornare porttitor.\nNullam egestas nec libero eget sagittis.\nPhasellus vulputate ante a vulputate vehicula.\nSuspendisse nec dolor ante.\nEnglish",
         "legalNoticeTextTwo": "Nunc auctor semper turpis.\nDuis quam velit, aliquam ut mi vel, sollicitudin dapibus erat.\nEtiam vitae malesuada urna.\nVestibulum scelerisque lacus at molestie cursus.\nDonec placerat enim id enim feugiat gravida.\nInteger ut maximus libero.\nNulla faucibus dolor vitae varius rutrum.\nNunc neque sem, convallis id lorem quis, vulputate imperdiet eros.\nDonec viverra commodo congue.\nEnglish",
 
+        "myExperience": "My career",
+        "experienceParkour": "My professional experience",
         "experienceTitleOne": "Computer Science degree",
         "experienceDescrOne": "Development and management of web applications using a wide range of technologies.\nDeveloping C# .Net desktop software using Forms and Xamarin.\nSetting up and managing databases using mySql.",
         "experienceTitleTwo": "Web Development intern",
-        "experienceDescrTwo": "Developing a website to show case an Augmented Reality Product.\nUse of the React framework and basic AR and Web AR tools.\nParticipate in meetings and discuss about improve the project."
+        "experienceDescrTwo": "Developing a website to show case an Augmented Reality Product.\nUse of the React framework and basic AR and Web AR tools.\nParticipate in meetings and discuss about improve the project.",
+        
+        "myHobby": "My hobbies",
+        "whatILike": "What I like to do on my free time"
     },
     "fr": {
         "language": "Français",
@@ -88,9 +93,14 @@
         "legalNoticeTextOne": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.\nNullam tellus leo, volutpat vitae mi ultrices, sollicitudin blandit dui.\nMauris ultricies iaculis leo id consequat.\nClass aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos.\nSed posuere risus viverra ornare porttitor.\nNullam egestas nec libero eget sagittis.\nPhasellus vulputate ante a vulputate vehicula.\nSuspendisse nec dolor ante.\nFrançais",
         "legalNoticeTextTwo": "Nunc auctor semper turpis.\nDuis quam velit, aliquam ut mi vel, sollicitudin dapibus erat.\nEtiam vitae malesuada urna.\nVestibulum scelerisque lacus at molestie cursus.\nDonec placerat enim id enim feugiat gravida.\nInteger ut maximus libero.\nNulla faucibus dolor vitae varius rutrum.\nNunc neque sem, convallis id lorem quis, vulputate imperdiet eros.\nDonec viverra commodo congue.\nFrançais",
 
+        "myExperience": "Mon parcours",
+        "experienceParkour": "Mon expérience professionnel",
         "experienceTitleOne": "CFC d'informatition",
         "experienceDescrOne": "Développement et gestion d'applications web utilisant un large éventail de technologies.\nDévelopper des logiciels de bureau C# .Net en utilisant Forms et Xamarin.\nMise en place et gestion de bases de données à l'aide de mySql.",
         "experienceTitleTwo": "Stagiaire en développement web",
-        "experienceDescrTwo": "Développement d'un site web pour présenter un produit de réalité augmentée.\nUtilisation du cadre React et des outils de base de la RA et de la RA Web.\nParticiper aux réunions et discuter de l'amélioration du projet."
+        "experienceDescrTwo": "Développement d'un site web pour présenter un produit de réalité augmentée.\nUtilisation du cadre React et des outils de base de la RA et de la RA Web.\nParticiper aux réunions et discuter de l'amélioration du projet.",
+
+        "myHobby": "Mes hobbies",
+        "whatILike": "Ce que j'aime faire pendant mon temps libre"
     }
 }
