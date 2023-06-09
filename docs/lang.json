@@ -42,7 +42,11 @@
         "legalNoticeTextTwo": "Nunc auctor semper turpis.\nDuis quam velit, aliquam ut mi vel, sollicitudin dapibus erat.\nEtiam vitae malesuada urna.\nVestibulum scelerisque lacus at molestie cursus.\nDonec placerat enim id enim feugiat gravida.\nInteger ut maximus libero.\nNulla faucibus dolor vitae varius rutrum.\nNunc neque sem, convallis id lorem quis, vulputate imperdiet eros.\nDonec viverra commodo congue.\nEnglish",
 
         "experienceTitleOne": "Computer Science degree",
-        "experienceDescrOne": "Developing and maintaining web applications using numerous technologies.\nDeveloping C# .Net desktop software using Forms and Xamarin.\nSetting up and managing databases using mySql."
+        "experienceDateOne": "<i class='far fa-clock' aria-hidden='true'></i> Aug 2020 - Ongoing",
+        "experienceDescrOne": "Development and management of web applications using a wide range of technologies.\nDeveloping C# .Net desktop software using Forms and Xamarin.\nSetting up and managing databases using mySql.",
+        "experienceTitleTwo": "Web Development intern",
+        "experienceDateTwo": "<i class='far fa-clock' aria-hidden='true'></i> Mar 2023 - May 2023",
+        "experienceDescrTwo": "Developing a website to show case an Augmented Reality Product.\nUse of the React framework and basic AR and Web AR tools.\nParticipate in meetings and discuss about improve the project."
     },
     "fr": {
         "language": "Français",
@@ -87,6 +91,10 @@
         "legalNoticeTextTwo": "Nunc auctor semper turpis.\nDuis quam velit, aliquam ut mi vel, sollicitudin dapibus erat.\nEtiam vitae malesuada urna.\nVestibulum scelerisque lacus at molestie cursus.\nDonec placerat enim id enim feugiat gravida.\nInteger ut maximus libero.\nNulla faucibus dolor vitae varius rutrum.\nNunc neque sem, convallis id lorem quis, vulputate imperdiet eros.\nDonec viverra commodo congue.\nFrançais",
 
         "experienceTitleOne": "CFC d'informatition",
-        "experienceDescrOne": "Developing and maintaining web applications using numerous technologies.\nDeveloping C# .Net desktop software using Forms and Xamarin.\nSetting up and managing databases using mySql."
+        "experienceDateOne": "<i class='far fa-clock' aria-hidden='true'></i> Août 2020 - En cours",
+        "experienceDescrOne": "Développement et gestion d'applications web utilisant un large éventail de technologies.\nDévelopper des logiciels de bureau C# .Net en utilisant Forms et Xamarin.\nMise en place et gestion de bases de données à l'aide de mySql.",
+        "experienceTitleTwo": "Stagiaire en développement web",
+        "experienceDateTwo": "<i class='far fa-clock' aria-hidden='true'></i> Mars 2023 - Mai 2023",
+        "experienceDescrTwo": "Développement d'un site web pour présenter un produit de réalité augmentée.\nUtilisation du cadre React et des outils de base de la RA et de la RA Web.\nParticiper aux réunions et discuter de l'amélioration du projet."
     }
 }
