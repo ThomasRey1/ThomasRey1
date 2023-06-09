@@ -39,7 +39,11 @@
 
         "legalNoticeTitle": "Legal Notice",
         "legalNoticeTextOne": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.\nNullam tellus leo, volutpat vitae mi ultrices, sollicitudin blandit dui.\nMauris ultricies iaculis leo id consequat.\nClass aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos.\nSed posuere risus viverra ornare porttitor.\nNullam egestas nec libero eget sagittis.\nPhasellus vulputate ante a vulputate vehicula.\nSuspendisse nec dolor ante.\nEnglish",
-        "legalNoticeTextTwo": "Nunc auctor semper turpis.\nDuis quam velit, aliquam ut mi vel, sollicitudin dapibus erat.\nEtiam vitae malesuada urna.\nVestibulum scelerisque lacus at molestie cursus.\nDonec placerat enim id enim feugiat gravida.\nInteger ut maximus libero.\nNulla faucibus dolor vitae varius rutrum.\nNunc neque sem, convallis id lorem quis, vulputate imperdiet eros.\nDonec viverra commodo congue.\nEnglish"
+        "legalNoticeTextTwo": "Nunc auctor semper turpis.\nDuis quam velit, aliquam ut mi vel, sollicitudin dapibus erat.\nEtiam vitae malesuada urna.\nVestibulum scelerisque lacus at molestie cursus.\nDonec placerat enim id enim feugiat gravida.\nInteger ut maximus libero.\nNulla faucibus dolor vitae varius rutrum.\nNunc neque sem, convallis id lorem quis, vulputate imperdiet eros.\nDonec viverra commodo congue.\nEnglish",
+
+        "experienceTitleOne": "Computer Science degree",
+        "experienceDateOne": " Aug 2020 - Ongoing",
+        "experienceDescrOne": "Developing and maintaining web applications using numerous technologies.\nDeveloping C# .Net desktop software using Forms and Xamarin.\nSetting up and managing databases using mySql."
     },
     "fr": {
         "language": "Français",
@@ -81,6 +85,10 @@
 
         "legalNoticeTitle": "Mention Légale",
         "legalNoticeTextOne": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.\nNullam tellus leo, volutpat vitae mi ultrices, sollicitudin blandit dui.\nMauris ultricies iaculis leo id consequat.\nClass aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos.\nSed posuere risus viverra ornare porttitor.\nNullam egestas nec libero eget sagittis.\nPhasellus vulputate ante a vulputate vehicula.\nSuspendisse nec dolor ante.\nFrançais",
-        "legalNoticeTextTwo": "Nunc auctor semper turpis.\nDuis quam velit, aliquam ut mi vel, sollicitudin dapibus erat.\nEtiam vitae malesuada urna.\nVestibulum scelerisque lacus at molestie cursus.\nDonec placerat enim id enim feugiat gravida.\nInteger ut maximus libero.\nNulla faucibus dolor vitae varius rutrum.\nNunc neque sem, convallis id lorem quis, vulputate imperdiet eros.\nDonec viverra commodo congue.\nFrançais"
+        "legalNoticeTextTwo": "Nunc auctor semper turpis.\nDuis quam velit, aliquam ut mi vel, sollicitudin dapibus erat.\nEtiam vitae malesuada urna.\nVestibulum scelerisque lacus at molestie cursus.\nDonec placerat enim id enim feugiat gravida.\nInteger ut maximus libero.\nNulla faucibus dolor vitae varius rutrum.\nNunc neque sem, convallis id lorem quis, vulputate imperdiet eros.\nDonec viverra commodo congue.\nFrançais",
+
+        "experienceTitleOne": "CFC d'informatition",
+        "experienceDateOne": " août 2020 - en cours",
+        "experienceDescrOne": "Developing and maintaining web applications using numerous technologies.\nDeveloping C# .Net desktop software using Forms and Xamarin.\nSetting up and managing databases using mySql."
     }
 }
