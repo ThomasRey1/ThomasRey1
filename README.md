@@ -22,6 +22,8 @@
         <img height="40" src="assets/Sql.png" />
         <img height="40" src="assets/Laravel.png" />
         <img height="40" src="assets/React.png" />
+        <img height="40" src="[assets/Tailwind.png](https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Tailwind_CSS_Logo.svg/2048px-Tailwind_CSS_Logo.svg.png)" />
+        <img height="40" src="assets/Bootstrap.png" />
         <h2> What I want to learn </h2>
         <img height="40" src="assets/Cpp.png" />
         <img height="40" src="assets/Python.png" />
