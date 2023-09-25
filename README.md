@@ -34,6 +34,7 @@
         <img height="40" src="assets/Vue.png" />
         <img height="40" src="assets/Next.png" />
         <img height="40" src="assets/Symfony.png" />
+        <img height="40" src="assets/Svelte.png" />
         </dd></dl></dd></dl></dd></dl>
     </div>
 </div>
