@@ -12,11 +12,10 @@
         </dd></dl></dd></dl></dd></dl>
         <h2> What i know </h2>
         <img height="40" src="assets/Csharp.png" />
-        <img height="40" src="assets/Java.png" />
         <img height="40" src="assets/Html.png" />
         <img height="40" src="assets/Css.png" />
         <img height="40" src="assets/Javascript.png" />
-        <img height="40" src="assets/Typescript.png" />
+        <img height="40" src="assets/Python.png" />
         <img height="40" src="assets/Php.png" />
         <img height="40" src="assets/Powershell.png" />
         <img height="40" src="assets/Sql.png" />
@@ -26,7 +25,8 @@
         <img height="40" src="assets/Bootstrap.png" />
         <h2> What I want to learn </h2>
         <img height="40" src="assets/Cpp.png" />
-        <img height="40" src="assets/Python.png" />
+        <img height="40" src="assets/Java.png" />
+        <img height="40" src="assets/Typescript.png" />
         <img height="40" src="assets/OpenGl.png" />
         <img height="40" src="assets/Sqlite.png" />
         <img height="40" src="assets/Angular.png" />
